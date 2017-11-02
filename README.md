@@ -1,2 +1,2 @@
 # hello-world
-it's hello world.  You know the rest.
+It's hello world.  You know the rest.
